@@ -15,8 +15,10 @@
 - **Score Tracking**: Earn points for every obstacle you dodge.
 - **Music Integration**: Enjoy a looping background soundtrack for an engaging experience.
 - **Game Over Screen**: Displays your score and allows you to replay or exit the game.
+- **remember to change the directory of the images to the correct path on your device.**
 
 ---
+
 
 ## 🚀 Getting Started
 
